@@ -1,0 +1,59 @@
+{
+  "title": "Sales Workflow SOP Builder – Leads → Replies, Fast",
+  "price": 25,
+  "delivery_days": 2,
+  "revisions": 1,
+  "category": "Writing & Translation",
+  "subcategory": "Other Writing & Translation",
+  "tags": [
+    "Sales SOP",
+    "Lead Status",
+    "Follow-Up",
+    "CRM",
+    "AI Outreach"
+  ],
+  "steps": [
+    {
+      "title": "Intake",
+      "desc": "We capture your goals, offer, audience and tools."
+    },
+    {
+      "title": "Map & Draft",
+      "desc": "Outline outreach steps, embed AI prompts, assign lead status tags and micro‑cadence."
+    },
+    {
+      "title": "Checklist & QA",
+      "desc": "Create a one‑page Quick‑Start with the 10‑Tag taxonomy; test the cadence for clarity."
+    },
+    {
+      "title": "Review & Finalize",
+      "desc": "You review; I apply one focused revision and deliver."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will this work if my pipeline is messy?",
+      "a": "Yes. Share your goals and typical prospects; I’ll structure a minimal sales workflow you can follow."
+    },
+    {
+      "q": "Which tools or CRMs are supported?",
+      "a": "It works with any CRM or email tool; just provide the details you use."
+    },
+    {
+      "q": "What does the revision cover?",
+      "a": "One round focused on clarity and usability tweaks; major scope or strategy changes aren’t included."
+    }
+  ],
+  "requirements": [
+    "2–3 sentences on your sales goal and typical prospects",
+    "Tools and CRM you use (e.g., ChatGPT, Gmail, HubSpot)",
+    "(Optional) Example outreach email or scenario to optimize"
+  ],
+  "deliverables": [
+    "2–4 page SOP (PDF/Doc)",
+    "1-page Quick-Start Checklist",
+    "Walkthrough Script (text)",
+    "1 focused revision (clarity/usability)",
+    "2-day delivery"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Content Workflow SOP Builder – Weekly Plan, Zero Scramble",
+  "price": 25,
+  "delivery_days": 2,
+  "revisions": 1,
+  "category": "Writing & Translation",
+  "subcategory": "Other Writing & Translation",
+  "tags": [
+    "Content SOP",
+    "Content Calendar",
+    "Repurpose",
+    "AI Copywriting",
+    "Social Media"
+  ],
+  "steps": [
+    {
+      "title": "Intake",
+      "desc": "Gather your goals, audience, platforms and tools."
+    },
+    {
+      "title": "Map & Draft",
+      "desc": "Outline ideation, drafting, editing and publishing; insert AI prompts and the content calendar."
+    },
+    {
+      "title": "Checklist & QA",
+      "desc": "Create a one‑page Quick‑Start and the 1→10 Repurpose Matrix; refine for clarity."
+    },
+    {
+      "title": "Review & Finalize",
+      "desc": "You review; I apply one focused revision and deliver."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will this work if I don’t have topics yet?",
+      "a": "Yes. Together we’ll outline a calendar, and you can fill topics later as you plan."
+    },
+    {
+      "q": "Which platforms are supported?",
+      "a": "It works with blogs, newsletters, LinkedIn and other platforms; you supply the details."
+    },
+    {
+      "q": "What does the revision cover?",
+      "a": "One round for clarity and usability; major scope or strategy changes aren’t included."
+    }
+  ],
+  "requirements": [
+    "2–3 sentences on your content goal and audience",
+    "Tools and platforms you use (e.g., ChatGPT, Google Docs, social channels)",
+    "(Optional) Example content piece or topic to optimize"
+  ],
+  "deliverables": [
+    "2–4 page SOP (PDF/Doc)",
+    "1-page Quick-Start Checklist",
+    "Walkthrough Script (text)",
+    "1 focused revision (clarity/usability)",
+    "2-day delivery"
+  ]
+}

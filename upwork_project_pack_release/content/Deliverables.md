@@ -1,0 +1,5 @@
+- 2–4 page Content Workflow SOP (PDF/Doc)
+- 1-page Quick‑Start Checklist
+- Walkthrough Script with scene cues
+- 1 focused revision (clarity/usability)
+- Delivery in 2 days

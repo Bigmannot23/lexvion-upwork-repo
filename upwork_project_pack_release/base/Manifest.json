@@ -1,0 +1,59 @@
+{
+  "title": "AI Workflow SOP Builder – Clear Steps to Save Hours",
+  "price": 25,
+  "delivery_days": 2,
+  "revisions": 1,
+  "category": "Writing & Translation",
+  "subcategory": "Other Writing & Translation",
+  "tags": [
+    "AI Workflow",
+    "Process Documentation",
+    "SOP",
+    "Productivity",
+    "Automation"
+  ],
+  "steps": [
+    {
+      "title": "Intake",
+      "desc": "You share your goals, tasks and tools via a short intake."
+    },
+    {
+      "title": "Map & Draft",
+      "desc": "Outline each step, insert AI prompts and add Do/Don’t Guardrails."
+    },
+    {
+      "title": "Checklist & QA",
+      "desc": "Build a one‑page Quick‑Start and a Daily Task Triage template; refine for clarity."
+    },
+    {
+      "title": "Review & Finalize",
+      "desc": "You review; I apply one focused revision and deliver the final SOP package."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What if my process feels vague?",
+      "a": "Even if it’s not fully defined, share your desired outcome and I’ll draft a simple workflow."
+    },
+    {
+      "q": "Which tools will this work with?",
+      "a": "It’s optimized for ChatGPT and works with most note‑taking or document tools."
+    },
+    {
+      "q": "What does the revision include?",
+      "a": "One round focused on small clarity and usability tweaks; major scope changes aren’t covered."
+    }
+  ],
+  "requirements": [
+    "2–3 sentences on your workflow or process",
+    "Tools used (e.g., ChatGPT, Notion/Docs)",
+    "(Optional) Example task to optimize"
+  ],
+  "deliverables": [
+    "2–4 page SOP (PDF/Doc)",
+    "1-page Quick-Start Checklist",
+    "Walkthrough Script (text)",
+    "1 focused revision (clarity/usability)",
+    "2-day delivery"
+  ]
+}
