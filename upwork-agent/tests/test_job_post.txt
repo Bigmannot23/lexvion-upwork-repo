@@ -1,0 +1,5 @@
+Title: Build a Python FastAPI agent to generate tailored proposals from job posts
+Budget: $600
+Need: Python, FastAPI, OpenAI, embeddings, RAG optional
+Timeline: 1-2 weeks
+Deliverables: MVP, docs, handover

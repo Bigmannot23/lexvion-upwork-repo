@@ -1,0 +1,5 @@
+{"title": "HIPAA-safe Dental Ops RAG", "blurb": "FastAPI RAG with Nightfall DLP and Notion KB for dental ops.", "impact": "Cut triage time 60%", "link": "https://example.com/case/dental-rag", "tags": ["python","fastapi","rag","notion","hipaa"]}
+{"title": "Upwork CRM Lead Scoring", "blurb": "LangChain + vector DB lead scoring for proposals.", "impact": "Raised win rate 18%", "link": "https://example.com/case/upwork-scoring", "tags": ["langchain","embeddings","automation"]}
+{"title": "Streamlit Proposal Assistant", "blurb": "Streamlit front-end to draft tailored proposals.", "impact": "Saved ~15 min/proposal", "link": "https://example.com/case/streamlit-proposal", "tags": ["streamlit","openai","jinja2"]}
+{"title": "FastAPI Data ETL Bot", "blurb": "ETL microservice integrating Gmail and Sheets.", "impact": "Eliminated manual CSV ops", "link": "https://example.com/case/etl-bot", "tags": ["fastapi","etl","sheets","gmail"]}
+{"title": "Compliance Automation Engine", "blurb": "Policy checks + audit logs for vendor onboarding.", "impact": "Zero audit defects", "link": "https://example.com/case/compliance", "tags": ["automation","audit","python"]}
